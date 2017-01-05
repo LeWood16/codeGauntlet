@@ -20,4 +20,4 @@ Frankly, a few examples is not enough to grasp the concept of a new programming 
 With all that said, this is primarily meant to be less of a reading/conceptual exercise, and more "do all these exercises using the tool you're trying to get better at."
 
 
-There a a TON of exercises and tutorials out there that you to do some simple task with your existing JavaScript knowledge.  This will force you to dig a little deeper, and fine-tune a tiny part of your knowledge base, improving that one part with focused attention and effort.
+There are a TON of exercises and tutorials out there that you to do some simple task with your existing JavaScript knowledge.  This will force you to dig a little deeper, and fine-tune a tiny part of your knowledge base, improving that one part with focused attention and effort.

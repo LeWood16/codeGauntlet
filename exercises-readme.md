@@ -18,3 +18,6 @@ Other tutorials gloss over (or at the very least allow the learner to gloss over
 Frankly, a few examples is not enough to grasp the concept of a new programming tool, let alone be confident and comfortable enough with using it in your code (or knowing the best place in your code to use it!) For me, saturating myself with a new tool by using it in a sort of "code gauntlet" is the answer. Without using the new tool so much that it becomes a part of your coding routine, you run the risk of reverting back to concepts that are simpler and more comfortable to you (in the case of a new developer, using for-loops where you arguably shoudn't, or chaining if-else loops together in a chaotic speghettified mess when something more dynamic and scalable arguably should be used instead.
 
 With all that said, this is primarily meant to be less of a reading/conceptual exercise, and more "do all these exercises using the tool you're trying to get better at."
+
+
+There a a TON of exercises and tutorials out there that you to do some simple task with your existing JavaScript knowledge.  This will force you to dig a little deeper, and fine-tune a tiny part of your knowledge base, improving that one part with focused attention and effort.

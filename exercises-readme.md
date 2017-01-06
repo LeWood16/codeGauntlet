@@ -21,3 +21,5 @@ With all that said, this is primarily meant to be less of a reading/conceptual e
 
 
 There are a TON of exercises and tutorials out there that ask you to do some simple task with your existing JavaScript knowledge.  This will force you to dig a little deeper, and fine-tune a tiny part of your knowledge base, improving that one part with focused attention and effort. Think "JavaScript The Hard Way."
+
+git test test test

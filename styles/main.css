@@ -1,9 +1,18 @@
 body {
 	color: white;
 	background: gray;
+	text-align: center;
 }
 
-h1 {
-	color: red;
-	background: black;
+.container{
+	width: 90%;
+	text-align: center;
+}
+
+.description{
+	float: left;
+	background: brown;
+	color: black;
+	padding: 10px;
+	min-height: 300px;
 }

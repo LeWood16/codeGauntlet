@@ -7,12 +7,28 @@ body {
 .container{
 	width: 90%;
 	text-align: center;
+	background: blue;
+	padding: 20px;
+	margin: 0 auto;
 }
 
 .description{
 	float: left;
-	background: brown;
-	color: black;
 	padding: 10px;
 	min-height: 300px;
+}
+
+.repl{
+	min-width: 800px;
+	display: inline-block;
+}
+
+.dashboard{
+	border-radius: 30px;
+	width: 90%;
+	text-align: center;
+	background: blue;
+	padding: 20px;
+	margin: 0 auto;
+	margin-top: 30px;
 }

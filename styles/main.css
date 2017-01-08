@@ -20,6 +20,7 @@ body {
 
 .repl{
 	min-width: 800px;
+	mini-height: 500px;
 	display: inline-block;
 }
 

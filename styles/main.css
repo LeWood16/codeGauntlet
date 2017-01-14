@@ -7,7 +7,7 @@ body {
 .container{
 	width: 90%;
 	text-align: center;
-	background: blue;
+	background: black;
 	padding: 20px;
 	margin: 0 auto;
 }
@@ -18,17 +18,23 @@ body {
 	min-height: 300px;
 }
 
-.repl{
+.repl-div{
 	min-width: 800px;
-	mini-height: 500px;
+	min-height: 300px;
 	display: inline-block;
+	margin-right: -10px;
+	padding: 5px;
+}
+
+.repl{
+	display: block;
 }
 
 .dashboard{
 	border-radius: 30px;
 	width: 90%;
 	text-align: center;
-	background: blue;
+	background: black;
 	padding: 20px;
 	margin: 0 auto;
 	margin-top: 30px;
